@@ -1,4 +1,4 @@
-# chatgpt
+#ChatGPT
 
 A new Flutter project.
 
